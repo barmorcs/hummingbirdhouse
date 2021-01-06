@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    font-variant: small-caps;
+  }
+  
+  
+  .navbar--logo-holder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .navbar--logo {
+    padding: 1em;
+  }
+  
+  .navbar--link {
+    display: flex;
+    list-style: none;
+  }
+  
+  .navbar--link-item {
+    margin: 0.4rem 1rem 0 0;
+    padding: 0 0.3rem;
+    cursor: pointer;
+  }
+  
